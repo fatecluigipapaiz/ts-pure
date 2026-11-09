@@ -1,0 +1,2 @@
+# ts-pure
+Init TS
